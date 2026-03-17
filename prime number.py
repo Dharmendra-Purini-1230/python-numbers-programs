@@ -7,5 +7,5 @@ for val in range(1,num+1):
 if fact_count == 2:
     print(f'{num} is prime number')
 else:
-    prime(f'{num} is not prime number')
+    print(f'{num} is not prime number')
 
